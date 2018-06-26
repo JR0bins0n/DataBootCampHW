@@ -48,9 +48,8 @@ cd ~/GitHub/<REPO-NAME>
 git pull 
 ```
 ### Then add the files you want to push to GitHub
-NOTE: using ./* gives you every file (*) in the current (.) 
+NOTE: using ./* gives you every file (*) in the current (.) directory (/)
 ```
-directory (/)
 git add ./*
 ```
 ### Now commit the files to be added with a comment
